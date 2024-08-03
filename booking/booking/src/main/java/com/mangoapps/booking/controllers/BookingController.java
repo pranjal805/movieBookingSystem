@@ -1,6 +1,5 @@
 package com.mangoapps.booking.controllers;
 
-import com.mangoapps.booking.models.Booking;
 import com.mangoapps.booking.models.BookingResponse;
 import com.mangoapps.booking.services.BookingService;
 import lombok.extern.slf4j.Slf4j;
